@@ -1,0 +1,92 @@
+body {
+    color: #659477;
+    text-align: center;
+    font-family: 'Staatliches', sans-serif;
+    background-image: url("https://thekidshouldseethis.com/wp-content/uploads/2020/09/capybara-nagasaki-biopark-pumpkins-01.jpg");
+}
+
+.title {
+    font-size: 50px;
+    background-color: #91cfa8;
+    font-weight: 800;
+    padding: 0 20px;
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+
+}
+
+p {
+    font-size: 30px;
+    font-weight: 800;
+}
+
+
+.firstImage {
+    height: 350px;
+}
+
+.yes-button {
+    height: 40px;
+}
+
+
+.Part-Two-Yes {
+    font-family: 'Coiny';
+    display: none;
+}
+
+
+.Part-Two-No {
+    font-family: 'Coiny';
+    display: none;
+}
+
+.Story-3-Yes {
+    font-family: 'Coiny';
+    display: none;
+}
+
+.Story-4-Yes {
+    font-family: 'Coiny';
+    display: none;
+}
+
+.story4 {
+    font-family: 'Coiny';
+    display: none;
+}
+
+.the-end {
+    font-family: 'Coiny';
+    display: none;
+
+}
+
+img {
+    height: 300px;
+}
+
+h1 {
+    font-size: 50px;
+    color: white;
+    font-family: 'Coiny';
+}
+
+.father-img {
+    position: center;
+    right: 75px;
+}
+
+.thebuttons {
+    display: flex;
+    justify-content: center;
+}
+
+.cabbage-img {
+    display: flex;
+    justify-content: center;
+
+}
